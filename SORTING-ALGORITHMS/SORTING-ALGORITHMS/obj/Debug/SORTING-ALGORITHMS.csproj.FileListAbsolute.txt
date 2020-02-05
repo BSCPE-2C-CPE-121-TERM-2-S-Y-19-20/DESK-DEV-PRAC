@@ -7,3 +7,5 @@ e:\onedrive\mixed files\documents\visual studio 2010\Projects\SORTING-ALGORITHMS
 e:\onedrive\mixed files\documents\visual studio 2010\Projects\SORTING-ALGORITHMS\SORTING-ALGORITHMS\obj\Debug\SORTING-ALGORITHMS.pdb
 e:\onedrive\mixed files\documents\visual studio 2010\Projects\SORTING-ALGORITHMS\SORTING-ALGORITHMS\obj\Debug\SORTING_ALGORITHMS.MainForm.resources
 e:\onedrive\mixed files\documents\visual studio 2010\Projects\SORTING-ALGORITHMS\SORTING-ALGORITHMS\obj\Debug\SORTING_ALGORITHMS.INSERTION_SORT.resources
+E:\OneDrive\CEA-FAC\CPE 121 - Object Oriented Programming\DESK-DEV-PRAC\SORTING-ALGORITHMS\SORTING-ALGORITHMS\obj\Debug\SORTING-ALGORITHMS.exe
+E:\OneDrive\CEA-FAC\CPE 121 - Object Oriented Programming\DESK-DEV-PRAC\SORTING-ALGORITHMS\SORTING-ALGORITHMS\obj\Debug\SORTING-ALGORITHMS.pdb
